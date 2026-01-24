@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:66BB6A&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=F1F8E9)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F1F8E9&background=1B5E20&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub)
+
 
 
 ## 👋 About Me
