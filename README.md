@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://instagram.com/j._.g_05">
-    <img src="https://img.shields.io/badge/Instagram-43A047?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-FFD1DC?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.gg/HERT4zPV">
-    <img src="https://img.shields.io/badge/Discord-43A047?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
