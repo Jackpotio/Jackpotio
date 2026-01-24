@@ -1,18 +1,19 @@
-<!-- Header Banner -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=E8F5E9&background=43A047&center=true&vCenter=true&width=900&lines=Building+ideas+into+reliable+systems)
+<!-- Typing Banner -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=E8F5E9&background=43A047&center=true&vCenter=true&width=900&lines=Learning.+Building.+Improving.)
 
 ---
 
 ## 👀 About Me
 
 - 🎓 Undergraduate student in **Software Engineering**, Chungbuk National University  
-- 🧠 Full-stack developer with a **backend-focused mindset**  
-- 🚀 Interested in building **reliable, scalable systems**  
-- 📚 Continuously learning backend architecture, databases, and cloud fundamentals  
+- 🌱 Studying **full-stack web development**, with a growing focus on **backend engineering**  
+- 🧠 Learning how web services work end-to-end: frontend, server, database  
+- 🪖 Currently serving in the **military**, continuing to study and practice development in limited environments  
+- 📚 Focusing on fundamentals, consistency, and building solid habits as a developer  
 
 ---
 
-## 🧱 Tech Stack
+## 🧱 Tech Stack (Currently Learning & Using)
 
 ### 💻 Languages
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -25,6 +26,7 @@
 
 ### 🗄️ Backend / Database / Tools
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-Git?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 ---
@@ -44,12 +46,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jackpotio&show_icons=true&theme=default"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackpotio&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jackpotio&show_icons=true"/>
 </p>
 
 ---
