@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F3D2E,100:1B5E20&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontAlign=50&fontAlignY=40)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F3D2E,100:1B5E20&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=E8F5E9)
 
 ## 👋 About Me
 - 🎓 Software Engineering @ CBNU
