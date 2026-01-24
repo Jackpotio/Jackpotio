@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F1F8E9&background=1B5E20&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=E8F5E9&background=43A047&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub)
 
 
 
@@ -19,4 +19,5 @@
 ## 📫 Contact
 - GitHub: https://github.com/Jackpotio
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=43A047&height=150&section=footer)
+
