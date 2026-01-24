@@ -8,7 +8,7 @@
 - 🎓 Undergraduate student in **Software Engineering**, Chungbuk National University  
 - 🌱 Studying **full-stack web development**, with a growing focus on **backend engineering**  
 - 🧠 Learning how web services work end-to-end: frontend, server, database  
-- 🪖 Currently serving in the **military**, continuing to study and practice development in limited environments  
+- ⏳ Currently serving in the **military**, continuing to study and practice development in limited environments  
 - 📚 Focusing on fundamentals, consistency, and building solid habits as a developer  
 
 ---
