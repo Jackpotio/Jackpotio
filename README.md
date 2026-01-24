@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=E8F5E9&background=43A047&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=E8F5E9&background=43A049&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub)
 
 
 
