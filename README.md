@@ -26,14 +26,14 @@
 
 ### 🔧 Backend 
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-2A2A2A?style=flat-square&logo=Express&logoColor=white"/>
 
 ### 🗄️ Database
 <!-- Intentionally left blank (Learning SQL fundamentals) -->
 
 ### 🛠 Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-2A2A2A?style=flat-square&logo=GitHub&logoColor=white"/>
 
 ---
 
