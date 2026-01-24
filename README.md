@@ -1,16 +1,20 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Software%20Engineering%20Student&fontSize=40)
 
-<!--
-**Jackpotio/Jackpotio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+- 🎓 Software Engineering @ CBNU
+- 💻 Backend-oriented Full-Stack Developer
+- 🌱 Interested in scalable backend systems
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Backend: Nest.js, Express
+- Frontend: React
+- Database: 
+- Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Survey Web App (React + Backend)
+
+## 📫 Contact
+- GitHub: https://github.com/Jackpotio
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer)
