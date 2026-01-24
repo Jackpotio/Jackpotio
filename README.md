@@ -56,6 +56,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jackpotio&show_icons=true"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Jackpotio=YOUR_USERNAME&layout=compact)
 </p>
 
 ---
