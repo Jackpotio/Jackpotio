@@ -55,7 +55,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인유저네임&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jackpotio&show_icons=true"/>
 </p>
 
 ---
