@@ -1,13 +1,4 @@
-![header](https://capsule-render.vercel.app/api?
-type=rect
-&color=gradient
-&height=180
-&section=header
-&text=jackpot
-&fontSize=60
-&fontAlign=50
-&fontAlignY=50)
-
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=jackpot&fontSize=60&fontAlign=50&fontAlignY=50)
 
 ## 👋 About Me
 - 🎓 Software Engineering @ CBNU
