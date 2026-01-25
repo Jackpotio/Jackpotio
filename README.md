@@ -27,6 +27,7 @@
 ### 🔧 Backend
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-2A2A2A?style=flat-square&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white"/>
 
 ### 🗄️ Database
 - Practicing **SQL fundamentals** through hands-on exercises and small examples
