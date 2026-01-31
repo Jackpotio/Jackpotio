@@ -51,15 +51,6 @@
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jackpotio&theme=emerald-green&hide_border=false" alt="Jackpotio's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jackpotio&show_icons=true&theme=emerald-green&rank_icon=github&display_format=png" alt="Jackpotio's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackpotio&layout=compact&hide=css,html&theme=emerald-green&display_format=png" alt="Top Langs" />
-</p>
-
 ---
 
 <!-- Footer -->
