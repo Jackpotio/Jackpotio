@@ -25,7 +25,6 @@
 
 ### 🔧 Backend
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/Express-2A2A2A?style=flat-square&logo=Express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white"/>
 
 ### 🗄️ Database
 - Practicing **SQL fundamentals** through hands-on exercises and small examples
@@ -33,6 +32,7 @@
 ### 🛠 Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-2A2A2A?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white"/>
 
 ---
 
