@@ -43,14 +43,18 @@
 
 ---
 
-## 🗺️ Roadmap
+## 📚 Certification Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CS-Data%20Structures%20%7C%20OS%20%7C%20Network-2E7D32?style=flat-square"/>
-  <img src="https://img.shields.io/badge/System-Linux%20%7C%20Server%20%7C%20Troubleshooting-388E3C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Backend-API%20%7C%20Database%20%7C%20Auth-43A047?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cloud-Infra%20%7C%20Deploy%20%7C%20Scale-4CAF50?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Next-Automation%20%7C%20Monitoring-66BB6A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Now-Linux%20Master%20Level%202-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Next-Network%20Administrator%20Level%202-388E3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Next-AWS%20Cloud%20Practitioner-43A047?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Plan-AWS%20Solutions%20Architect%20Associate-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plan-RHCSA-66BB6A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plan-Engineer%20Information%20Processing-81C784?style=for-the-badge"/>
 </p>
 
 ---
