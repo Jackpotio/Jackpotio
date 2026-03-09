@@ -48,7 +48,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Now-Linux%20Master%20Level%202-2E7D32?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Next-Network%20Administrator%20Level%202-388E3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Next-AWS%20Cloud%20Practitioner-43A047?style=for-the-badge"/>
 </p>
 
 <p align="center">
